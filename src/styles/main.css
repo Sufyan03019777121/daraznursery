@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Exo', sans-serif;
+   
+}
+  
+   /* colors */
+.body_color{
+    background-color: #0a0a0b;
+}
+.first_color_alt{
+    background-color: #306ad9 ;
+}
+.first_color{
+    background-color: #4177dc;
+}
+.title_color{
+    color: #f1f2f3;
+}
+.text_color{
+    color: #babec4;
+}
+.white_color{
+    color: #FFFFFF;
+}
+.container_color{
+    background-color: #111213;
+}
+
+/* Fuente tipografica desktop */
+.h1_font_size{
+    font-size: 2.25rem;
+} 
+.h2_font_size{
+    font-size: 1.5rem;
+} 
+.h3_font_size{
+    font-size: 1.25rem;
+} 
+.h4_font_size{
+    font-size: 1rem;
+} 
+.small_font{
+    font-size: .875rem;
+} 
+.smaller_font{
+    font-size: .813rem;
+} 
+
+@media (max-width: 426px) {
+    .h1_font_size{
+        font-size: 1.5rem;
+    }
+}

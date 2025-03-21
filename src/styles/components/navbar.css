@@ -1,0 +1,8 @@
+   /* sidbar */
+   @media (max-width: 991px) {
+    .sidebar{
+        background-color: #222222;
+        text-transform: uppercase; 
+        padding-bottom: 3rem;
+   }
+}

@@ -1,0 +1,22 @@
+/* .Electric_car_img{
+
+} */
+.home_1_car_img{
+    width: 30%;
+}
+.shape_small_img {
+    right: 0;
+    top: 18%;
+}
+@media (max-width: 991px) {
+    .home_1_car_img{
+        width: 15rem;
+   }
+}
+.shape_big_img{
+    left: 0;
+    top: -60;
+}
+.h1_font_size_in_header{
+    padding-top: 4%; 
+}
