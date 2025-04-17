@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/e-car-website/static/css/main.5c4a75e8.css",
-    "main.js": "/e-car-website/static/js/main.7b4ac446.js",
-    "static/js/488.0dc70d46.chunk.js": "/e-car-website/static/js/488.0dc70d46.chunk.js",
-    "static/media/shape small.png": "/e-car-website/static/media/shape small.c5ba4a6697c0edde3888.png",
-    "static/media/home_1_car.png": "/e-car-website/static/media/home_1_car.99a342579a05d98e8a83.png",
-    "index.html": "/e-car-website/index.html",
-    "static/media/shape big.svg": "/e-car-website/static/media/shape big.4c5845386fe96a9d701b93a4c3f3af84.svg",
-    "main.5c4a75e8.css.map": "/e-car-website/static/css/main.5c4a75e8.css.map",
-    "main.7b4ac446.js.map": "/e-car-website/static/js/main.7b4ac446.js.map",
-    "488.0dc70d46.chunk.js.map": "/e-car-website/static/js/488.0dc70d46.chunk.js.map"
+    "main.css": "/daraznursery/static/css/main.5c4a75e8.css",
+    "main.js": "/daraznursery/static/js/main.140c33cf.js",
+    "static/js/488.029df2f2.chunk.js": "/daraznursery/static/js/488.029df2f2.chunk.js",
+    "static/media/shape small.png": "/daraznursery/static/media/shape small.c5ba4a6697c0edde3888.png",
+    "static/media/home_1_car.png": "/daraznursery/static/media/home_1_car.99a342579a05d98e8a83.png",
+    "index.html": "/daraznursery/index.html",
+    "static/media/shape big.svg": "/daraznursery/static/media/shape big.4c5845386fe96a9d701b93a4c3f3af84.svg",
+    "main.5c4a75e8.css.map": "/daraznursery/static/css/main.5c4a75e8.css.map",
+    "main.140c33cf.js.map": "/daraznursery/static/js/main.140c33cf.js.map",
+    "488.029df2f2.chunk.js.map": "/daraznursery/static/js/488.029df2f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4a75e8.css",
-    "static/js/main.7b4ac446.js"
+    "static/js/main.140c33cf.js"
   ]
 }
