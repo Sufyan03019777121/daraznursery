@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/daraznursery/static/css/main.74d86de1.css",
-    "main.js": "/daraznursery/static/js/main.23029458.js",
-    "static/js/488.029df2f2.chunk.js": "/daraznursery/static/js/488.029df2f2.chunk.js",
-    "static/media/plant1.jpeg": "/daraznursery/static/media/plant1.508484c924a49bbdb4be.jpeg",
+    "main.css": "/daraznursery/static/css/main.5555da49.css",
+    "main.js": "/daraznursery/static/js/main.14f5462a.js",
     "index.html": "/daraznursery/index.html",
-    "main.74d86de1.css.map": "/daraznursery/static/css/main.74d86de1.css.map",
-    "main.23029458.js.map": "/daraznursery/static/js/main.23029458.js.map",
-    "488.029df2f2.chunk.js.map": "/daraznursery/static/js/488.029df2f2.chunk.js.map"
+    "main.5555da49.css.map": "/daraznursery/static/css/main.5555da49.css.map",
+    "main.14f5462a.js.map": "/daraznursery/static/js/main.14f5462a.js.map"
   },
   "entrypoints": [
-    "static/css/main.74d86de1.css",
-    "static/js/main.23029458.js"
+    "static/css/main.5555da49.css",
+    "static/js/main.14f5462a.js"
   ]
 }
