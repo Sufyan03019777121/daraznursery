@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Container, Form, Button, Row, Col } from 'react-bootstrap';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 
 const Checkout = () => {
   const [order, setOrder] = useState({
@@ -83,6 +84,7 @@ const Checkout = () => {
         <Button type="submit" variant="success" className="mt-3">
           Place Order
         </Button>
+        <Button as={Link} to={`https://wa.me/923094282079?text=Hello%2C%20I%20am%20interested%20in%20buying%20the%20Aloe%20Vera%20plant.%20Can%20you%20give%20me%20more%20details%3F"`} variant="primary mx-2 mt-3">Whatsapp</Button>
       </Form>
     </Container>
   );

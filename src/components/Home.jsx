@@ -14,7 +14,7 @@ const Home = () => {
       <Row>
         {dummyProducts.map(product => (
           <Col key={product.id} sm={6} md={6}>
-            <ProductCard product={product} />
+            <ProductCard product={product}  />
           </Col>
         ))}
       </Row>
