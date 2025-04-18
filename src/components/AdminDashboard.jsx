@@ -39,8 +39,9 @@ const AdminDashboard = () => {
   };
 
   return (
-    <Container className="mt-4">
-      <h2 className='text-success'>Admin Dashboard <span className='text-danger'>-</span> <span className='text-primary'>Add Product</span></h2>
+    <Container className="mt-4 ">
+      <h4 className='text-success text-center'>Admin Dashboard  </h4>
+      <h4 className='text-primary text-center' >Add Product</h4>
       <Form onSubmit={handleSubmit}>
         <Row>
           <Col md={6}>
