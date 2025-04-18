@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/daraznursery/static/css/main.5555da49.css",
-    "main.js": "/daraznursery/static/js/main.14f5462a.js",
+    "main.js": "/daraznursery/static/js/main.e188b2c6.js",
     "index.html": "/daraznursery/index.html",
     "main.5555da49.css.map": "/daraznursery/static/css/main.5555da49.css.map",
-    "main.14f5462a.js.map": "/daraznursery/static/js/main.14f5462a.js.map"
+    "main.e188b2c6.js.map": "/daraznursery/static/js/main.e188b2c6.js.map"
   },
   "entrypoints": [
     "static/css/main.5555da49.css",
-    "static/js/main.14f5462a.js"
+    "static/js/main.e188b2c6.js"
   ]
 }
