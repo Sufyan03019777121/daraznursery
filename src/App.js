@@ -1,22 +1,26 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import Header from './components/layout/Header';
-import "../src/styles/main.css"
-
-// import AdminPage from './components/layout/AdminPage';
-import ImageCards from './components/layout/ImageCards';
-
-
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './components/Home';
+import ProductDetails from './components/ProductDetails';
+import Login from './components/Login';
+import AdminDashboard from './components/AdminDashboard';
+import Checkout from './components/Checkout';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div >
-      
-      <ImageCards/>
-     {/* <AdminPage/> */}
-     <Header/>
-   
-    </div>
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/product/:id" element={<ProductDetails />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/admin" element={<AdminDashboard />} />
+        <Route path="/checkout" element={<Checkout />} />
+      </Routes>
+      <Footer />
+    </Router>
   );
 }
 

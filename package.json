@@ -5,12 +5,14 @@
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.3",
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.5",
     "cra-template": "1.2.0",
     "gh-pages": "^6.3.0",
     "react": "^19.0.0",
+    "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
-    "react-router-dom": "^7.1.1",
+    "react-router-dom": "^7.5.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
@@ -27,7 +29,6 @@
       "react-app",
       "react-app/jest"
     ]
-   
   },
   "browserslist": {
     "production": [
@@ -43,7 +44,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
   "author": "",
   "license": "ISC"
 }
