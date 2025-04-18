@@ -40,7 +40,7 @@ const AdminDashboard = () => {
 
   return (
     <Container className="mt-4">
-      <h2>Admin Dashboard - Add Product</h2>
+      <h2 className='text-success'>Admin Dashboard <span className='text-danger'>-</span> <span className='text-primary'>Add Product</span></h2>
       <Form onSubmit={handleSubmit}>
         <Row>
           <Col md={6}>

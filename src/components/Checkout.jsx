@@ -28,7 +28,7 @@ const Checkout = () => {
 
   return (
     <Container className="mt-4">
-      <h2>Checkout</h2>
+      <h2 className='text-primary'>Checkout</h2>
       <Form onSubmit={handleSubmit}>
         <Row>
           <Col md={6}>

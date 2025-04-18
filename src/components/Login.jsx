@@ -31,7 +31,7 @@ const Login = () => {
 
   return (
     <Container className="mt-4">
-      <h2>Login with Mobile Number</h2>
+      <h2 className='text-primary'>Login with Mobile Number</h2>
       <Form>
         <Form.Group controlId="mobile">
           <Form.Label>Mobile Number</Form.Label>
