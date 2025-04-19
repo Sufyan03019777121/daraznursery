@@ -13,8 +13,8 @@ const Navbar = () => {
             <Nav.Link as={Link} to="/"
               className="text-light"
             >Home</Nav.Link>
-            <Nav.Link as={Link} to="/checkout" className="text-light">Checkout</Nav.Link>
-            <Nav.Link as={Link} to="/login" className="text-light">Login</Nav.Link>
+            {/* <Nav.Link as={Link} to="/checkout" className="text-light">Checkout</Nav.Link>
+            <Nav.Link as={Link} to="/login" className="text-light">Login</Nav.Link> */}
             <Nav.Link as={Link} to="/admin" className="text-light">Admin</Nav.Link>
           </Nav>
         </BSNavbar.Collapse>
